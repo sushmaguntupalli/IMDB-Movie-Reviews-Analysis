@@ -1,0 +1,2 @@
+# IMDB-Movie-Reviews-Analysis
+ANALYSIS OF MOVIE REVIEW From IMDB
